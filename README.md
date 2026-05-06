@@ -231,12 +231,3 @@ This dataset is released under:
 }
 ```
 
----
-
-
-## ⭐ Acknowledgements
-
-This work is supported by research initiatives in RIS-enabled wireless communications and B5G/6G systems.
-
----
-
