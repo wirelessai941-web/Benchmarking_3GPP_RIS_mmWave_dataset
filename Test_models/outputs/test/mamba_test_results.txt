@@ -1,0 +1,2 @@
+Mamba Test Accuracy: 0.251200
+Total Samples: 10000

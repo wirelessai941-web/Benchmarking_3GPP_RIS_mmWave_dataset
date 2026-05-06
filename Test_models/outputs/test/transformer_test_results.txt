@@ -1,0 +1,2 @@
+Transformer Test Accuracy: 0.116500
+Total Samples: 30000
