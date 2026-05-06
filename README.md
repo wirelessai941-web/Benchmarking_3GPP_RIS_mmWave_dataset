@@ -15,6 +15,8 @@ The dataset contains **200,000 labeled channel realizations** across **20 deploy
 
 ## 📂 Dataset Structure
 
+USe Dataset_generation/RIS_mmWave_MultiDataset_Pipeline_V3_NoiseVariants.ipynb to generate data samples
+
 ```
 dataset/
 │── data/
